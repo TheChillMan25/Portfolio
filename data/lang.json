@@ -1,0 +1,154 @@
+{
+    "eng": {
+        "nav": {
+            "title": "Portfolio",
+            "about": "About",
+            "projects": "Projects",
+            "contacts": "Contacts"
+        },
+        "name": "Péter Gyurcsó-Licsman",
+        "about-section": {
+            "about-title": "About",
+            "about-text": "My name is Péter Gyurcsó-Licsman. I am studying computer science with a focus on software engineering at the University of Szeged. I first became interested in computer science in elementary school, initially through video games, which later expanded to video game development and then to web and application development.",
+            "education-header": "Education",
+            "institution": "University of Szeged",
+            "msc-name": "MSc in Computer science",
+            "bsc-name": "BSc in Computer Science",
+            "experience-header": "Experience",
+            "internship-interval": "16 July 2025 – 10 September 2025",
+            "traits-header": "Traits"
+        },
+        "projects-section": {
+            "projects-title": "Projects",
+            "main-projects": [
+                {
+                    "img": "assets/project_images/ev.webp",
+                    "title": "Graduate work",
+                    "github": "https://github.com/TheChillMan25/EbredoVilagok",
+                    "description": "My graduate work was about bringing tabletop role-playing games into a virtual environment. Its main focus is on the online use of a system developed by a friend of mine. I built the project using Angular and utilized Google Firebase services for backend management. The application includes a description of the role-playing system, a map of the world, options for creating characters and campaigns along with a full-fledged game experience, and a simple forum."
+                },
+                {
+                    "img": "assets/project_images/szakgyak.webp",
+                    "title": "Internship",
+                    "github": "https://github.com/TheChillMan25/Calivita-Sidepanel",
+                    "demo-link": "https://thechillman25.github.io/Calivita-Sidepanel",
+                    "description": "I completed my internship at Business Art Solutions Kft. in Budapest. During the two months I spent there, I was tasked by my mentor with creating a sidebar panel, using the Webflow interface as the primary model, for the company’s in-house website builder application."
+                },
+                {
+                    "img": "assets/project_images/tcm.webp",
+                    "title": "Minecraft launcher",
+                    "github": "https://github.com/TheChillMan25/TCM-Launcher",
+                    "description": "After a grueling final exam, my new project was to develop a Minecraft launcher that I could use with my friends to make gaming easier. The main goal of the launcher is to let me collect Minecraft mods in one place, regardless of which mod database provides them. I can then export the resulting modpack and even upload it to a shared database, from which my friends can download them."
+                }
+            ],
+            "secondary-projects": [
+                {
+                    "img": "assets/project_images/diggy-dwarf.webp",
+                    "title": "Diggy Dwarf",
+                    "github": "https://github.com/TheChillMan25/Diggy-Dwarf",
+                    "description": "University project for the Multimedia course. The assignment was to create a JavaScript game using jQuery or HTML Canvas. The goal of the game is to dig up as many rocks as possible in one minute while playing as a dwarf. Before each round, you can upgrade your character’s strength and speed."
+                },
+                {
+                    "img": "assets/project_images/reddot.webp",
+                    "title": "Reddot",
+                    "github": "https://github.com/TheChillMan25/RF1",
+                    "description": "A university project for the Systems Development course. The assignment involved developing an application based on a topic of our choice in groups of 4–5 people. This project is a simple clone of Reddit implemented using Java Spring. Running this project locally requires a PostgreSQL server and JetBrains IntelliJ IDEA (or an IDE of like that can run Spring Boot applications)."
+                },
+                {
+                    "img": "assets/project_images/lovecraft.webp",
+                    "title": "Lovecraft",
+                    "github": "https://github.com/TheChillMan25/Lovecraft",
+                    "description": "A university project for the Web Design course. A friend and I created a simple PHP-based fan website about H. P. Lovecraft. It features a list of his books (which you can bookmark), a glossary with a search function, fan-created artwork, and a quote generator that displays Lovecraft’s famous quotes. We used the PHP Server extension in Visual Studio Code to run it."
+                },
+                {
+                    "img": "assets/project_images/ev.webp",
+                    "title": "TTRPG",
+                    "github": "https://github.com/TheChillMan25?tab=repositories",
+                    "description": "The topic of my graduate work was already on my mind long before I chose it. At first, I started developing a PHP-based web application. I spent about 3–4 months on it at most. After that, I took the “Web Development Frameworks” course, in which I chose to develop this TTRPG showcase site as my individual topic. That’s when I was introduced to Angular. The PHP and Angular applications were nearly identical in terms of functionality. It was then that I realized I wanted to expand on this idea, which I ultimately succeeded in doing while writing and developing my graduate work. I could say these projects served as prototypes."
+                }
+            ],
+            "gw": "Graduate work PDF (HUN)",
+            "gwp": "Graduate work demo (HUN)",
+            "demo-link": "Demo"
+        },
+        "contact": {
+            "contact-title": "Contact"
+        }
+    },
+    "hun": {
+        "nav": {
+            "title": "Portfólió",
+            "about": "Rólam",
+            "projects": "Projektek",
+            "contacts": "Kapcsolat"
+        },
+        "name": "Gyurcsó-Licsman Péter",
+        "about-section": {
+            "about-title": "Rólam",
+            "about-text": "Gyurcsó-Licsman Péter vagyok. Programtervező informatikát tanulok a Szegedi Tudományegyetemen. Az informatika iránt már általános iskolában elkezdtem érdeklődni, akkor még a videójátékok formájában, mely később videójáték fejlesztésre, majd web- és alkalmazás fejlesztésre is kiterjedt.",
+            "education-header": "Tanulmányok",
+            "institution": "Szegedi Tudományegyetem",
+            "msc-name": "Programtervező Informatikus MSc",
+            "bsc-name": "Programtervező Informatikus BSc",
+            "experience-header": "Tapasztalat",
+            "internship-interval": "2025. július 16. - 2025. szeptember 10.",
+            "traits-header": "Képességek"
+        },
+        "projects-section": {
+            "projects-title": "Projektek",
+            "main-projects": [
+                {
+                    "img": "assets/project_images/ev.webp",
+                    "title": "Szakdolgozat",
+                    "github": "https://github.com/TheChillMan25/EbredoVilagok",
+                    "description": "A szakdolgozatom az asztali szerepjátékok virtuális térbe helyezéséről szólt. Fő témája egy barátom által fejlesztett rendszer online használata. A projektet Angularral készítettem és Google Firebase szolgáltatásokat használtam a backend menedzsmenthez. Az alkalmazás tartalmazza a szerepjáték rendszerének leírását, egy térképet a világról, karakter- és kampánykészítési lehetőséget és ezekhez tartózó teljeskörű játékot, valamint egy egyszerű fórumot."
+                },
+                {
+                    "img": "assets/project_images/szakgyak.webp",
+                    "title": "Szakmai gyakorlat",
+                    "github": "https://github.com/TheChillMan25/Calivita-Sidepanel",
+                    "demo-link": "https://thechillman25.github.io/Calivita-Sidepanel",
+                    "description": "Szakmai gyakorlatomat a budapesti Business Art Solutions Kft.-nél végeztem. Az itt eltöltött két hónap alatt a mentorom megbízásából egy oldalsó panelt készítettem, melyhez fő mintául a Webflow felülete szolgált, a cég által fejlesztett belső weboldal építő alkalmazásához."
+                },
+                {
+                    "img": "assets/project_images/tcm.webp",
+                    "title": "Minecraft launcher",
+                    "github": "https://github.com/TheChillMan25/TCM-Launcher",
+                    "description": "Egy húzós záróvizsga után az új projekt egy olyan Minecraft launcher fejlesztése volt, amit a baráti körömmel használhatok a játék megkönnyítésére. A launcher fő célja, hogy a Minecraft moddokat egy helyre össze tudjam gyűjteni, függetlenül attól, hogy melyik mod adatbázis szolgáltatja azokat. Az így kialakult modpackot ki tudjam exportálni és akár feltölteni egy közös adatbázisba, ahonnan a barátaim le tudják azokat tölteni."
+                }
+            ],
+            "secondary-projects": [
+                {
+                    "img": "assets/project_images/diggy-dwarf.webp",
+                    "title": "Diggy Dwarf",
+                    "github": "https://github.com/TheChillMan25/Diggy-Dwarf",
+                    "description": "Egyetemi projektmunka Multimédia tárgyból. A feladat egy javascript játék elkészítése JQuery vagy HTML canvas használatával. A játék célja, hogy törpként egy perc alatt minél több sziklát kiássunk. Minden kör előtt van lehetőség fejleszteni a karakter erejét és sebességét."
+                },
+                {
+                    "img": "assets/project_images/reddot.webp",
+                    "title": "Reddot",
+                    "github": "https://github.com/TheChillMan25/RF1",
+                    "description": "Egyetemi projektmunka Rendszerfejlesztés tárgyból. A feladat egy választható témából egy alkalmazás fejlesztése 4-5 fős csoportokban. Ez a projekt a Reddit egy egyszerű klónja Java Spring-el megvalósítva. A projekt lokális futtatásához PostgreSQL szerverre és Jetbrains IntelliJ IDEA-ra (vagy egyéb olyan fejlesztői környezetre, ami képes Spring Boot alkalmazást futtatni) van szükség."
+                },
+                {
+                    "img": "assets/project_images/lovecraft.webp",
+                    "title": "Lovecraft",
+                    "github": "https://github.com/TheChillMan25/Lovecraft",
+                    "description": "Egyetemi projekt Webtervezés tárgyból. Egy barátommal készítettünk egy egyszerű PHP alapú rajongói weboldalt H. P. Lovecraft-ról. Megtalálhatóak a könyvei (ezeket lehet könyvjelzőzni), egy fogalomtár keresővel, rajongók által készített rajzok és egy idézet generátor is, ami Lovecraft híres idézeteit írja a kijelzőre. A futtatáshoz a Visual Studio Code PHP Server bővítményt használtunk."
+                },
+                {
+                    "img": "assets/project_images/ev.webp",
+                    "title": "TTRPG",
+                    "github": "https://github.com/TheChillMan25?tab=repositories",
+                    "description": "A szakdolgozatom témája már bőven a kiválasztása előtt jelen volt. Eleinte egy PHP alapú webalkalmazást kezdtem el fejleszteni. Ezzel kb 3-4 hónapot tölthettem el maximum. Ezután felvettem a Webfejlesztési keretrendszerek tárgyat, amiben projektmunkának egyedi témaként választottam a TTRPG bemutató oldal fejlesztését. Ekkor ismerkedtem meg az Angularral. A PHP és az Angular alkalmazasok szinte megegyeztek funkcionalitás szempontjából. Ekkor tudatosult bennem, hogy szeretném kiterjeszteni ezt az ötletet, amit végülis a szakdolgozatom megírása és fejlesztése alatt sikerült is. Mondhatni ezek a projektek prototípusként szolgáltak."
+                }
+            ],
+            "gw": "Szakdolgozat PDF",
+            "gwp": "Szakdolgozat bemutató",
+            "demo-link": "Bemutató  "
+        },
+        "contact": {
+            "contact-title": "Kapcsolat"
+        }
+    }
+}
