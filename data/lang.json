@@ -25,6 +25,7 @@
                     "img": "assets/project_images/ev.webp",
                     "title": "Graduate work",
                     "github": "https://github.com/TheChillMan25/EbredoVilagok",
+                    "demo-link": "https://ebredo-vilagok.web.app/",
                     "description": "My graduate work was about bringing tabletop role-playing games into a virtual environment. Its main focus is on the online use of a system developed by a friend of mine. I built the project using Angular and utilized Google Firebase services for backend management. The application includes a description of the role-playing system, a map of the world, options for creating characters and campaigns along with a full-fledged game experience, and a simple forum."
                 },
                 {
@@ -102,6 +103,7 @@
                     "img": "assets/project_images/ev.webp",
                     "title": "Szakdolgozat",
                     "github": "https://github.com/TheChillMan25/EbredoVilagok",
+                    "demo-link": "https://ebredo-vilagok.web.app/",
                     "description": "A szakdolgozatom az asztali szerepjátékok virtuális térbe helyezéséről szólt. Fő témája egy barátom által fejlesztett rendszer online használata. A projektet Angularral készítettem és Google Firebase szolgáltatásokat használtam a backend menedzsmenthez. Az alkalmazás tartalmazza a szerepjáték rendszerének leírását, egy térképet a világról, karakter- és kampánykészítési lehetőséget és ezekhez tartózó teljeskörű játékot, valamint egy egyszerű fórumot."
                 },
                 {
