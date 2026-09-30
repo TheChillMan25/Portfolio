@@ -1,10 +1,9 @@
 import $ from "jquery";
 import Chart from "chart.js/auto";
+import langData from "./data/lang.json";
 
-var langData;
-
-$(async function(){
-    await initilazeLanguageAsync();
+$(function(){
+    initilazeLanguage();
     initilizeChart();
 
     const lang = localStorage.getItem("lang") ?? "hun";
@@ -72,11 +71,7 @@ $(async function(){
     });
 });
 
-async function initilazeLanguageAsync(){
-    const response = await fetch("data/lang.json");
-    const data = await response.json();
-    if(data !== null) langData = data;
-    
+function initilazeLanguage(){
     let lang = localStorage.getItem("lang");
     if(!(lang === "hun" || lang === "eng")){
         lang = "hun";
