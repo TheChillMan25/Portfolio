@@ -32,7 +32,7 @@
                     "title": "Internship",
                     "github": "https://github.com/TheChillMan25/Calivita-Sidepanel",
                     "demo-link": "https://thechillman25.github.io/Calivita-Sidepanel",
-                    "description": "I completed my internship at Business Art Solutions Kft. in Budapest. During the two months I spent there, I was tasked by my mentor with creating a sidebar panel, using the Webflow interface as the primary model, for the company’s in-house website builder application."
+                    "description": "I completed my internship at Calivita International in Budapest. During the two months I spent there, I was tasked by my mentor with creating a sidebar panel for the internal website builder application developed by the company, using the Webflow interface as the primary model."
                 },
                 {
                     "img": "assets/project_images/tcm.webp",
@@ -68,8 +68,9 @@
                 }
             ],
             "gw": "Graduate work PDF (HUN)",
-            "gwp": "Graduate work demo (HUN)",
-            "demo-link": "Demo"
+            "gwp": "Graduate work demo PDF (HUN)",
+            "sidepanel-demo-link-text": "Demo site",
+            "graduate-work-link-text": "Website"
         },
         "contact": {
             "contact-title": "Contact"
@@ -108,7 +109,7 @@
                     "title": "Szakmai gyakorlat",
                     "github": "https://github.com/TheChillMan25/Calivita-Sidepanel",
                     "demo-link": "https://thechillman25.github.io/Calivita-Sidepanel",
-                    "description": "Szakmai gyakorlatomat a budapesti Business Art Solutions Kft.-nél végeztem. Az itt eltöltött két hónap alatt a mentorom megbízásából egy oldalsó panelt készítettem, melyhez fő mintául a Webflow felülete szolgált, a cég által fejlesztett belső weboldal építő alkalmazásához."
+                    "description": "Szakmai gyakorlatomat a budapesti Calivita International-nél végeztem. Az itt eltöltött két hónap alatt a mentorom megbízásából egy oldalsó panelt készítettem, a cég által fejlesztett belső weboldal építő alkalmazásához, melyhez fő mintául a Webflow felülete szolgált."
                 },
                 {
                     "img": "assets/project_images/tcm.webp",
@@ -144,8 +145,9 @@
                 }
             ],
             "gw": "Szakdolgozat PDF",
-            "gwp": "Szakdolgozat bemutató",
-            "demo-link": "Bemutató  "
+            "gwp": "Szakdolgozat bemutató PDF",
+            "sidepanel-demo-link-text": "Bemutató oldal",
+            "graduate-work-link-text": "Weboldal"
         },
         "contact": {
             "contact-title": "Kapcsolat"

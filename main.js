@@ -175,12 +175,12 @@ function showProject(element){
             if(["Szakmai gyakorlat", "Internship"].includes(data["title"])){
                 $("#gw").hide();
                 $("#gwp").hide();
-                $("#demo-link").attr("href", data["demo-link"]).text(langData[lang]["projects-section"]["demo-link"]).show();
+                $("#demo-link").attr("href", data["demo-link"]).text(langData[lang]["projects-section"]["sidepanel-demo-link-text"]).show();
             }
             else{
                 $("#gw").show();
                 $("#gwp").show();
-                $("#demo-link").hide();
+                $("#demo-link").attr("href", data["demo-link"]).text(langData[lang]["projects-section"]["graduate-work-link-text"]).show();
             }
         }else{
             $("#details-panel").removeClass("graduate-work");
