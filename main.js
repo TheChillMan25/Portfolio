@@ -17,6 +17,9 @@ $(function(){
     $("#hamburger-btn").on("click", function(){
         $("#mobile-nav-link-container").toggleClass("show");
     })
+    $("#mobile-nav-link-container a").on("click", function(){
+        $("#mobile-nav-link-container").toggleClass("show")
+    });
 
     $("#lang").attr("data-active", lang)
 
@@ -44,9 +47,6 @@ $(function(){
                 $("#pdf-iframe").attr("src", "assets/szakdolgozat.pdf");
                 break;
         }
-
-        console.log(this);
-
         $("#pdf-container").addClass("show");
     });
 
