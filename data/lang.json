@@ -4,7 +4,10 @@
             "title": "Portfolio",
             "about": "About",
             "projects": "Projects",
-            "contacts": "Contacts"
+            "contacts": "Contacts",
+            "about-m": "About",
+            "projects-m": "Projects",
+            "contacts-m": "Contacts"
         },
         "name": "Péter Gyurcsó-Licsman",
         "about-section": {
@@ -82,7 +85,10 @@
             "title": "Portfólió",
             "about": "Rólam",
             "projects": "Projektek",
-            "contacts": "Kapcsolat"
+            "contacts": "Kapcsolat",
+            "about-m": "Rólam",
+            "projects-m": "Projektek",
+            "contacts-m": "Kapcsolat"
         },
         "name": "Gyurcsó-Licsman Péter",
         "about-section": {

@@ -7,13 +7,17 @@ $(function(){
     initilizeChart();
 
     const lang = localStorage.getItem("lang") ?? "hun";
-    switch (lang){
+    /* switch (lang){
         case "hun":
             alert("Az oldal jelenleg telefonos nézetben használhatatlan.")
             break;
         case "eng":
             alert("The site is currently unusable in mobile view.")
-    }
+    } */
+    $("#hamburger-btn").on("click", function(){
+        $("#mobile-nav-link-container").toggleClass("show");
+    })
+
     $("#lang").attr("data-active", lang)
 
     $("#lang").on("click", function() {
@@ -89,6 +93,9 @@ function loadText(lang){
     $("#lang").text(lang.toLocaleUpperCase());
 
     $("#nav-link-container span").each(function(){
+        $(this).text(nav[this.id]);
+    });
+    $("#mobile-nav-link-container span").each(function(){
         $(this).text(nav[this.id]);
     });
 
@@ -230,6 +237,8 @@ function initilizeChart(){
                 ]
             },
             options:{
+                responsive: true,
+                maintainAspectRatio: true,
                 plugins:{
                     legend:{
                         labels:{
